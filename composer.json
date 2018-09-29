@@ -1,0 +1,24 @@
+{
+	 "name": ".../...",
+    "config": {
+        "platform": {
+            "php": "5.4.45"
+        }
+    },
+
+    "require": {
+    	
+       	 "Illuminate/database": "^5",
+
+        "Illuminate/Routing" :"^5",
+        "illuminate/config" : "^5",
+        "Illuminate/View" : "^5",
+        "Illuminate/Pagination" : "^5",
+         "Illuminate/Events" : "^5",
+               "xiaoler/blade": "0.*"
+        
+
+   
+   
+    }
+}
